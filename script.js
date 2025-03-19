@@ -30,3 +30,13 @@ let numero1 = parseFloat(prompt("digite seu primeiro numero:"));
 let numero2 = parseFloat(prompt("digite seu primeiro numero:"));
 
 Calcular(numero1, numero2)
+
+//3. Laço While para Contagem Regressiva:
+
+let numero =10;
+let dalay =0;
+
+while (numer >=1){
+    console.log(numero);
+    numero--:
+}
