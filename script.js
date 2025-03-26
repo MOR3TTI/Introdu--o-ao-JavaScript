@@ -40,3 +40,28 @@ while (numer >=1){
     console.log(numero);
     numero--:
 }
+
+//4. Manipulacao de String:
+
+function inverterTexto(str) {
+    return str.split('').reverse().join('');
+  }
+
+//5. Contagem de Caracteres em uma String:
+
+function contarCaracteres(str) {
+    return str.length;
+  }
+
+//6. Acessando Propriedades de Objetos:
+
+const carro = {
+    marca: 'jeep',
+    modelo: 'Compas',
+    ano: 2022
+  };
+  
+  console.log(carro.modelo);
+
+//7. Função com Parâmetros Opcionais:
+
