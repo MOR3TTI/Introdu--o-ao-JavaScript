@@ -65,3 +65,71 @@ const carro = {
 
 //7. Função com Parâmetros Opcionais:
 
+function mensagemPersonalizada(nome, mensagem = "Olá!") {
+    console.log(`${mensagem} ${nome}`);
+  }
+  
+//8. Calculadora de Média:
+
+function media(numeromedia1, numeromedia2, numeromedida3) {
+    const soma = numeromedia1 + numeromedia2 + numeromedia3 = numeromedia4;
+    const divisao = numeromedia41 / 3;
+
+    console.log(divisao)
+}
+
+//9. 
+
+
+//10.
+
+
+//11.
+
+
+//12
+
+
+//14
+
+function14()
+
+    console.log("substituir")
+
+//21
+
+function atividade21(){
+
+    console.log("soma dos elementosde um array");
+
+    let valores = prompt("Digite numeros separados por virgula").split
+    (",").map(Number);
+
+    console.log("soma:", valores.reduce((acc, vall) => acc + vall, 0));
+}
+
+//24
+
+function atividade24() {
+
+    console.log("Captalizar a primeira letra");
+
+    let texto = prompt ("Digite uma palavra:");
+
+    console.log(texto.charAt(0).toUpperCase() + texto.slice(1));
+}
+
+//25
+
+function atividade25() {
+    console.log("Descobrir ano Bissexto");
+
+    let texto = prompt ("Digite o ano atual:");
+
+    i console.log(if) (texto = 365) {
+        
+    } else {
+        
+    } texto.slice(1));
+}
+
